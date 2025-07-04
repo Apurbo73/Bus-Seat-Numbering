@@ -95,4 +95,4 @@ Upper Single
 
 ---
 
-Let me know if you get an actual image of the seat layout — I’ll adjust the logic accordingly!
+
