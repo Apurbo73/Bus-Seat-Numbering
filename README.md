@@ -1,5 +1,4 @@
 ﻿# Bus-Seat-Numbering
-Certainly! Let's walk through the **logic and explanation** for the bus seat classification problem:
 
 ---
 
