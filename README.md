@@ -1,4 +1,4 @@
-﻿# Bus Seat Numbering
+### Bus Seat Numbering
 
 ---
 
